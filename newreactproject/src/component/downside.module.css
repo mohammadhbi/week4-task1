@@ -1,0 +1,28 @@
+.downside{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: solid black 1px;
+}
+.ullist{
+display: flex;
+gap: 12px;
+border: solid 1px black;
+
+}
+.lilist{
+    display: flex;
+ border: solid 1px black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    /* height: 80px; */
+}
+.bghome{
+    background: #FFEFE5;
+
+}
+.bgcontactus{
+    background: #FFAE80;
+
+}
