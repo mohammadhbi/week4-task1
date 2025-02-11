@@ -1,12 +1,11 @@
-import Navbar from "./component/navbar";
-import { Header } from "./Header";
-import { MainSection } from "./Mainsection";
+import Navbar from "./component/navbar/Navbar";
+import { Header } from "./component/hedear/Header";
 function App(){
   return(
    <div>
      <Navbar/>
      <Header/>
-     <MainSection/>
+     
    </div>
   )
 }

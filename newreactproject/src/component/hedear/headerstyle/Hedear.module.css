@@ -1,0 +1,7 @@
+.HedearContainer{
+    width: 1490px;
+    height: 785px;
+    gap: 60px;    
+    display: flex;
+    justify-content: space-around;
+}
