@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 .Sectionbottom {
-    background-color: rgba(17, 0, 252, 0.732);
+  
     margin: auto;
     width: 90%;
     height: 60%;
@@ -87,6 +87,7 @@
     border-width: 2px;
     padding: 80px;
   gap: 20px;
+  background-color: #fff;
 }
 
 .page span {
@@ -116,7 +117,7 @@
     width: 423px;
     height: 120px;
 padding-bottom: 10px;
-
+ color: #4C4C4D;
 }
 
 .page a {
@@ -127,6 +128,7 @@ padding-bottom: 10px;
     letter-spacing: 0%;
     text-align: center;
     padding-top: 10px;
+
 }
 
 .page a {
@@ -135,7 +137,8 @@ padding-bottom: 10px;
     gap: 10px;
     border-radius: 10px;
     border-width: 2px;
-    padding-top: 18px;
+    /* padding-top: 28px; */
+    margin-top: 30px;
     padding-bottom: 18px;
     background: #FFDECC;
     border: 2px solid #262626;
