@@ -6,7 +6,11 @@
     margin-top: 20px;
     margin-left: -40px;
 }
-
+.upsideRight{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
 .Statistics {
     display: flex;
     gap: 5px;
@@ -29,9 +33,10 @@
     height: 140px;
     font-family: Raleway;
     font-weight: 800;
-    font-size: 54px;
+    font-size: 48px;
     line-height: 70.2px;
     letter-spacing: 0%;
+    padding-bottom: 20px;
 }
 
 .Heading span {

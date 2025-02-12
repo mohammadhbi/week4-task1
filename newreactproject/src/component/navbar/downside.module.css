@@ -8,9 +8,11 @@
 .ullist{
 display: flex;
 gap: 12px;
-
+/* position: relative; */
 list-style: none;
-
+.lilist{
+    position: relative;
+}
 }
  ul li:before {
     content: "";
